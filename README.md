@@ -5,8 +5,11 @@
 
 
 ### Tecnologias
+-
+-
+-
+-
 
-
-### Contacto
+### ✉ Contacto
 <a href="https://www.linkedin.com/in/lautaro-fuente-868b752ba/" target="_blank">linkedin</a>
 <a href="mailto:lautaro.fuente@yahoo.com" target="_blank">correo</a>
