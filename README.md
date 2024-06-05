@@ -1,8 +1,10 @@
-![GIF](https://i.kym-cdn.com/photos/images/original/001/315/787/15c.gif)
+<div align="center">
+  ![GIF](https://i.kym-cdn.com/photos/images/original/001/315/787/15c.gif)
+</div>
 
 <h1 align="center">¡Hola!👋🦊</h1>
 
-<h3>Mi nombre es Lautaro Fuente, soy desarrollador/programador y estudiante de Licenciatura en Informatica en la UNLP. </h3>
+<h4>Mi nombre es Lautaro Fuente, soy desarrollador/programador y estudiante de Licenciatura en Informatica en la UNLP. </h4>
 
 ### Tecnologias
 <div>
@@ -19,5 +21,5 @@
 </div>
 
 ### ✉ Contacto
--<a href="https://www.linkedin.com/in/lautaro-fuente-868b752ba/" target="_blank">linkedin</a><br>
+-<a href="https://www.linkedin.com/in/lautaro-fuente-868b752ba/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50" height="50"></a><br>
 -<a href="mailto:lautaro.fuente@yahoo.com" target="_blank">correo</a>
