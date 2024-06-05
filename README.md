@@ -5,9 +5,9 @@
 <h1 align="center">¡Hola!👋🦊</h1>
 
 <h4>Mi nombre es Lautaro Fuente, soy desarrollador/programador. </h4>
-  -Estudiante de Licenciatura en Informática.
-  -Soy de Argentina, ciudad de La Plata.
-  -Me encanta aprender constantemente.
+  - Estudiante de Licenciatura en Informática.
+  - Soy de Argentina, ciudad de La Plata.
+  - Me encanta aprender constantemente.
 
 ### Tecnologias 👨‍💻
 <div style="display: flex; justify-content: center; align-items: center;"> 
