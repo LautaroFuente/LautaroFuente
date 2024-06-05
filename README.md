@@ -22,4 +22,4 @@
 
 ### ✉ Contacto
 -<a href="https://www.linkedin.com/in/lautaro-fuente-868b752ba/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50" height="50"></a><br>
--<a href="mailto:lautaro.fuente@yahoo.com" target="_blank">correo</a>
+-<a href="mailto:lautaro.fuente@yahoo.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/6788/6788206.png" width="50" height="50"></a>
